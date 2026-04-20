@@ -1,0 +1,9 @@
+SupplierID,Transactions,TotalValue,SupplierName,Rating,OnTime_Pct
+SUP-001,53,6476352.13,TechParts India,4.5,95
+SUP-002,67,4876188.94,MetalWorks Ltd,4.2,88
+SUP-003,60,5621741.76,PlastiCraft,3.8,92
+SUP-004,66,5631562.54,GlobalAuto,4.7,97
+SUP-005,58,4468344.53,FoodSupply Co,4.0,90
+SUP-006,64,4828316.55,QuickLogix,3.5,85
+SUP-007,59,5710303.17,SteelCraft,4.3,91
+SUP-008,73,7591728.17,EcoPack,3.9,89

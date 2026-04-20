@@ -1,0 +1,6 @@
+WarehouseID,WarehouseName,Location,Capacity_Units,Manager,ContactEmail
+WH-001,Mumbai Central,Mumbai,50000,Rajesh Kumar,rajesh@scm.com
+WH-002,Delhi North,Delhi,45000,Priya Sharma,priya@scm.com
+WH-003,Chennai South,Chennai,40000,Anil Reddy,anil@scm.com
+WH-004,Kolkata East,Kolkata,35000,Sunita Das,sunita@scm.com
+WH-005,Pune West,Pune,30000,Vikram Joshi,vikram@scm.com

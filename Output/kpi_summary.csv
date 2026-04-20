@@ -1,0 +1,11 @@
+KPI,Value
+Total_Transactions,500.0
+Total_Inventory_Value,45204537.79
+Avg_Stock_Level,2582.7
+Slow_Moving_Count,405.0
+Slow_Moving_Pct,81.0
+Avg_Supplier_Rating,4.11
+Avg_OnTime_Delivery,90.9
+Warehouses,5.0
+Unique_Products,15.0
+Active_Suppliers,8.0

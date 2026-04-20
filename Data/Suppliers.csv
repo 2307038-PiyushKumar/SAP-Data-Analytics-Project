@@ -1,0 +1,9 @@
+SupplierID,SupplierName,Category,Location,Rating,OnTime_Pct
+SUP-001,TechParts India,Electronics,Mumbai,4.5,95
+SUP-002,MetalWorks Ltd,Raw Materials,Pune,4.2,88
+SUP-003,PlastiCraft,Packaging,Chennai,3.8,92
+SUP-004,GlobalAuto,Automotive,Delhi,4.7,97
+SUP-005,FoodSupply Co,Perishables,Kolkata,4.0,90
+SUP-006,QuickLogix,Electronics,Mumbai,3.5,85
+SUP-007,SteelCraft,Raw Materials,Pune,4.3,91
+SUP-008,EcoPack,Packaging,Bangalore,3.9,89
